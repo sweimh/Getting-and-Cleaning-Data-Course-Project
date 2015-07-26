@@ -34,4 +34,4 @@ The variables are created based on observing UCI HAR Dataset, its README file, a
 3. There should be one table for each "kind" of variable
 4. If you have multiple tables, they should include a column in the table that allows them to be linked
 
-[link](http://github.com/jtleek/datasharing#the-tidy-data-set)
+[Source](http://github.com/jtleek/datasharing#the-tidy-data-set)
