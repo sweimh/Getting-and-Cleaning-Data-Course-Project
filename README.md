@@ -42,7 +42,7 @@ Files included in this Project
 
 File Name      | Description
 ---------------|-------------------------------------------------------------------------------
-README.Rmd     | You are currently reading
+README.md      | You are currently reading
 run_analysis.R | R Script that runs to merge and tidy data from Project Instruction
 codebook.md    | Describes the variables, the data, and any transformations done in R script
 
